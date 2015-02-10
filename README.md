@@ -1,0 +1,2 @@
+# moneycollecter
+cocosTest
